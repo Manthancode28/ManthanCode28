@@ -13,6 +13,8 @@
 
 ---
 
+### 🗒️Resume 
+<a href="https://drive.google.com/file/d/1hxq3817hh2UnuZpxbYDoWqsY8sq1_FK_/view?usp=sharing" atrget = "_black"> My Resume </a>
 ### 🚀 Tech Stack
 
 <p align="left">
