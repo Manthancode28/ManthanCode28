@@ -10,7 +10,7 @@
 - 🎓 Final-year IT student at DY Patil College of Engineering, Akurdi  
 - 💻 I love building full-stack web apps with **React, Node.js, Express & MongoDB**
 - 🛠️ Solved **400+ coding problems** on platforms like LeetCode
-- 
+
 ---
 
 ### 🚀 Tech Stack
