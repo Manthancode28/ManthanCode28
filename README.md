@@ -14,7 +14,7 @@
 ---
 
 ### 🗒️Resume 
-<a href="https://drive.google.com/file/d/1hxq3817hh2UnuZpxbYDoWqsY8sq1_FK_/view?usp=sharing" target="_blank"> My Resume </a>
+<a href="https://drive.google.com/file/d/1pis52it-yiM5fqNg_iBQyJ-WouPwkG7u/view?usp=sharing" target="_blank"> My Resume </a>
 
 
 ### 🚀 Tech Stack
