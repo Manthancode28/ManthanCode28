@@ -5,17 +5,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=435&lines=Final+Year+IT+Student;MERN+Stack+Developer;400%2B+DSA+Problems+Solved;" alt="Typing SVG" />
 </p>
 
+---
+
 ### 🧑‍💻 About Me
 
 - 🎓 Final-year IT student at DY Patil College of Engineering, Akurdi  
-- 💻 I love building full-stack web apps with **React, Node.js, Express & MongoDB**
-- 🛠️ Solved **400+ coding problems** on platforms like LeetCode
+- 💻 Passionate about building full-stack web apps with **React, Node.js, Express & MongoDB**  
+- 🛠️ Solved **400+ coding problems** on platforms like LeetCode  
+- 🚀 Exploring **Cloud & DevOps**  
 
 ---
 
-### 🗒️Resume 
-<a href="https://drive.google.com/file/d/1ZuE2I_K9nGJU50BQTwg6B-eTLLPSmFy1/view?usp=sharing" target="blank"> My Resume </a>
+### 🗒️ Resume  
+📄 <a href="https://drive.google.com/file/d/1ZuE2I_K9nGJU50BQTwg6B-eTLLPSmFy1/view?usp=sharing" target="_blank">View My Resume</a>  
 
+---
 
 ### 🚀 Tech Stack
 
@@ -54,6 +58,18 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManthanCode28&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanCode28&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanCode28&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
@@ -61,28 +77,16 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/manthan-nimonkar-082987297/" target="_blank">
-    Linkedin
-  </a> <br>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:manthan.nimon28@gmail.com" target="_blank">
-    Email
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://manthannimonkar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-*Thanks for visiting my GitHub profile! Drop a ⭐ on my repos if you like them :)*
-
-<!--
-**Manthancode28/ManthanCode28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Thanks for visiting my GitHub profile! Drop a star ⭐ on my repos if you find them useful.*  
