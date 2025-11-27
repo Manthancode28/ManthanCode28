@@ -129,10 +129,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Manthancode28&show_icons=true&theme=tokyonight&count_private=true" alt="Manthan's Stats" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://git-hub-streak-stats.vercel.app/?user=Manthancode28&theme=tokyonight" alt="Manthan's Streak" />
-</p> -->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manthancode28&layout=compact&theme=tokyonight" alt="Manthan's Top Languages" />
 </p>
