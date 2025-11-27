@@ -89,6 +89,12 @@
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManthanCode28&theme=tokyonight" height="180" /> -->
 
 <br/><br/>
+<!-- <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ManthanCode28&show_icons=true&theme=tokyonight&include_all_commits=true" height="180" />
+
+</div> -->
+
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManthanCode28&theme=tokyonight" /> -->
 
