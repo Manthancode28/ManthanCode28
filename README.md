@@ -126,12 +126,21 @@
 <h2 align="center">📊 My GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manthancode28&show_icons=true&theme=tokyonight&count_private=true" alt="Manthan's Stats" />
+  <img 
+    src="https://raw.githubusercontent.com/Manthancode28/github-stats/master/generated/overview.svg"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manthancode28&layout=compact&theme=tokyonight" alt="Manthan's Top Languages" />
+  <img 
+    src="https://raw.githubusercontent.com/Manthancode28/github-stats/master/generated/languages.svg"
+    alt="Top Languages"
+  />
 </p>
+
+
+
 
 ---
 
