@@ -123,21 +123,32 @@
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManthanCode28&theme=tokyonight" /> -->
 <br>
-<h2 align="center">📊 My GitHub Activity</h2>
+
+<!-- <p align="center">
+  <img 
+       src="https://github-readme-stats-rho-henna.vercel.app/api?username=Manthancode28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+       alt="Manthan's GitHub Stats" 
+  />
+</p> -->
+<h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Manthancode28/github-stats/master/generated/overview.svg"
-    alt="GitHub Stats"
+       src="https://github-readme-stats-rho-henna.vercel.app/api?username=Manthancode28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+       alt="Manthan's GitHub Stats" 
   />
 </p>
 
+
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Manthancode28/github-stats/master/generated/languages.svg"
-    alt="Top Languages"
+       src="https://github-readme-stats-rho-henna.vercel.app/api/top-langs/?username=Manthancode28&layout=compact&theme=tokyonight"
+       alt="Top Languages"
   />
 </p>
+
+
+
 
 
 
