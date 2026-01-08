@@ -134,7 +134,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-rho-henna.vercel.app/api?username=Manthancode28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
+    src="https://github-readme-stats-rho-henna.vercel.app/api?username=ManthanCode28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
     alt="Manthan's GitHub Stats"
   />
 </p>
@@ -155,8 +155,12 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManthanCode28&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ManthanCode28&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </div>
 
 ---
