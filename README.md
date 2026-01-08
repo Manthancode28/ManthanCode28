@@ -134,16 +134,15 @@
 
 <p align="center">
   <img 
-       src="https://github-readme-stats-rho-henna.vercel.app/api?username=Manthancode28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-       alt="Manthan's GitHub Stats" 
+    src="https://github-readme-stats-rho-henna.vercel.app/api?username=Manthancode28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
+    alt="Manthan's GitHub Stats"
   />
 </p>
 
-
 <p align="center">
   <img 
-       src="https://github-readme-stats-rho-henna.vercel.app/api/top-langs/?username=Manthancode28&layout=compact&theme=tokyonight"
-       alt="Top Languages"
+    src="https://github-readme-stats-rho-henna.vercel.app/api/top-langs/?username=Manthancode28&layout=compact&theme=tokyonight&cache_seconds=1800"
+    alt="Top Languages"
   />
 </p>
 
