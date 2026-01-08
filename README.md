@@ -156,11 +156,9 @@
 
 ## 🏆 GitHub Trophies
 
+<h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ManthanCode28&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=ManthanCode28&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 
